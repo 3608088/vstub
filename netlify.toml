@@ -1,6 +1,6 @@
 [[redirects]]
 from = "/*"
-to = "https://vtsuru.live/:splat"
+to = "https://kizunaai.com/:splat"
 status = 200
 force = false
-headers = {Host = "vtsuru.live", X-Forwarded-Host = "vtsuru.live"}
+headers = {Host = "kizunaai.com", X-Forwarded-Host = "kizunaai.com"}
